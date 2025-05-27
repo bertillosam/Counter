@@ -15,7 +15,7 @@
     background-color: black;
     border-radius: 4px;
     cursor: pointer;
-    transition: background-color 0.25s;
+    transition: background-color 0.25s; /* For delay hovering of cursor*/
 
 }
 .buttons:hover {
